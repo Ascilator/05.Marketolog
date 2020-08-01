@@ -425,6 +425,7 @@ textarea {
 @media screen and (max-width: 1000px) {
   .first_screen .button_call_us_container {
     position: fixed;
+    z-index: 100;
     -webkit-transform: translate(0%, 0%);
     -ms-transform: translate(0%, 0%);
     transform: translate(0%, 0%);
